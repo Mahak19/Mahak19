@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![MasterHead](https://www.freecodecamp.org/news/content/images/size/w2000/2022/01/alexander-sinn-KgLtFCgfC28-unsplash.jpg)](https://mahak19.io)
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://mahak19.io)
 <h1 align="center">Hi 👋, I'm Mahak Singhal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding Girl" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
