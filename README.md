@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/23727056/87433896-78ae9700-c607-11ea-9ca6-9cdbe3f67998.jpg)
+
 ### Hi Everyone👋
 <!--![banner](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)-->
 <h1 align="center">Hi 👋, I'm Mahak Singhal</h1>
